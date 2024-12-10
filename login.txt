@@ -1,6 +1,6 @@
 user:Ayoub
 pw:exuchy123
 user:Hamza
-pw:hamza123
+pw:hamza1234
 user:Yassin
-pw:hamza123
+pw:hamza12342
