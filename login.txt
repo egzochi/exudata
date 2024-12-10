@@ -1,2 +1,4 @@
 user:Ayoub
 pw:exuchy123
+user:JohnDoe
+pw:password123
