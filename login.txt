@@ -2,3 +2,7 @@ user:Ayoub
 pw:exuchy123
 user:JohnDoe
 pw:password123
+user:Hamza
+pw:password123
+user:Yassin
+pw:password123
